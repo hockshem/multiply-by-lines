@@ -1,5 +1,7 @@
 #  Multiply By Lines #
 
-What if I tell you that you can actually **solve multiplication problems** by just **counting lines**? Check out my playground book to learn more! 
+What if I tell you that you can actually **solve multiplication problems** by just **counting lines**? 
 
-![Demo](/PlaygroundBook/PageTwoStepThree.jpeg)
+Check out my playground book to learn more! 
+
+![Demo](/PlaygroundBook/PrivateResources/PageTwoStepThree.jpeg)
