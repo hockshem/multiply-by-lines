@@ -1,0 +1,21 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "The Art of Japanese Multiplication";
+
+/* The localized name of the chapters in the playground book. */
+"ChapterOneName" = "Multiply By Lines";
+
+/* The localized name of the pages in the first chapter in the playground book. */
+"PageOneName" = "Two Digits Multiplication";
+"PageTwoName" = "Padding with Zeros";
+"PageThreeName" = "Carrying";
+
+"PageFourName" = "Algebraic Multiplication";
+"PageFiveName" = "Time to Say Goodbye!";
+
